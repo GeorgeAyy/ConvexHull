@@ -1,0 +1,3 @@
+﻿  Brute Force.cpp
+C:\Users\georg\OneDrive\Desktop\University\Semester 4\Algorithms Analysis and Design\ConvexHull\Brute Force\Brute Force\Brute Force.cpp(51,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Brute Force.vcxproj -> C:\Users\georg\OneDrive\Desktop\University\Semester 4\Algorithms Analysis and Design\ConvexHull\Brute Force\x64\Debug\Brute Force.exe
