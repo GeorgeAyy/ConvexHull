@@ -1,8 +1,8 @@
-#Convex Hull Brute Force Algorithm
+# Convex Hull Brute Force Algorithm
 
 This algorithm finds the convex hull of a set of 2D points using a brute force approach. The convex hull is the smallest convex polygon that contains all the given points.
 
-##Algorithm Overview:
+## Algorithm Overview:
 
 1. Define a structure to represent a 2D point with x and y coordinates.
 
